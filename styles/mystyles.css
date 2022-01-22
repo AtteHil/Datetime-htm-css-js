@@ -1,0 +1,33 @@
+.clock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #00FF00;
+    font-size: 80px;
+    font-family: 'Courier New', monospace;
+    letter-spacing: 10px;
+
+}
+h1 {
+    color: greenyellow;
+    
+    font-size: 50px;
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+    top: 30%;
+    left: 50%;
+
+}
+p {
+    color: greenyellow;
+    text-align: center;
+    font-size: 40px;
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+    top: 35%;
+    left: 50%;
+}
+body {
+    background: black;
+}
